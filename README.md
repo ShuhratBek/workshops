@@ -1,6 +1,6 @@
 # Workshops
 
-- [ ] Simple Web Server - Node.js, Bootstrap 3
+- [x] [Simple Web Server - Node.js, Bootstrap 4](https://github.com/ShuhratBek/simple-server)
 - [ ] Basic Express Website - Node.js
 - [ ] User Login System - Node.js, Express.js, NodeMailer, Pug, YAML
 - [ ] Node Blog System - Node.js, Express.js, MongoDB, Passport.js, Bcrypt.js
